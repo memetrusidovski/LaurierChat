@@ -1,0 +1,92 @@
+ [
+
+{"sentence": "what episode was mike kelley the writer of", "isComplete": 1} ,
+{"sentence": "what kind of music is mastermind", "isComplete": 1} ,
+        {
+            "sentence": "can i get it back",
+            "isComplete": 0
+        },
+{"sentence": "whats a song by the artist  duke ellington", "isComplete": 1} ,
+{"sentence": "What's a release from strange currencies", "isComplete": 1} ,
+{"sentence": "what is a song by joseph barbera", "isComplete": 1} ,
+        {
+            "sentence": "how come",
+            "isComplete": 0
+        },
+{"sentence": "what kind of film is thank you for smoking?", "isComplete": 1} ,
+{"sentence": "Name a game that was made for the atari st platform", "isComplete": 1},
+{"sentence": "what is a travel destination near pennywell farm", "isComplete": 1} ,
+{"sentence": "which short film won a bafta", "isComplete": 1} ,
+{"sentence": "what kind of album is fact mix 213: creep", "isComplete": 1} ,
+        {
+            "sentence": "where is it",
+            "isComplete": 0
+        },
+{"sentence": "what is the name of a defender in soccer ", "isComplete": 1} ,
+{"sentence": "which country released total recall", "isComplete": 1} ,
+{"sentence": "where was joseph whitehead born", "isComplete": 1} ,
+{"sentence": "in what state is medicine bow peak found", "isComplete": 1} ,
+{"sentence": "What a work authored by crawford kilian", "isComplete": 1} ,
+{"sentence": "what was the release format of nova classics six", "isComplete": 1} ,
+        {
+            "sentence": "what time is the exam",
+            "isComplete": 1
+        },
+        {
+            "sentence": "when is the exam",
+            "isComplete": 1
+        },
+        {
+            "sentence": "what is my grade on the assignment",
+            "isComplete": 1
+        },
+        {
+            "sentence": "when is the class",
+            "isComplete": 1
+        },
+        {
+            "sentence": "when is it",
+            "isComplete": 0
+        },
+        {
+            "sentence": "when are we going",
+            "isComplete": 0
+        },
+        {
+            "sentence": " monster vd code ran duck none",
+            "isComplete": -1
+        },
+        {
+            "sentence": "assignment get wire take jumble test",
+            "isComplete": -1
+        },
+        {
+            "sentence": "hkwmoerteg werktmwe rmwerk t",
+            "isComplete": -1
+        },
+        {
+            "sentence": "is class cancelled today",
+            "isComplete": 1
+        },
+        {
+            "sentence": "what is the due date of assignment 3",
+            "isComplete": 1
+        },
+        {
+            "sentence": "where is your office",
+            "isComplete": 1
+        },
+        {
+            "sentence": "flask java tangle what is now",
+            "isComplete": -1
+        },
+        {
+            "sentence": "when",
+            "isComplete": 0
+        },
+        {
+            "sentence": "take cap where when class is",
+            "isComplete": -1
+        }
+
+    ]

@@ -1,0 +1,33 @@
+{
+    "context":[
+        {
+            "title": "exam",
+            "tags": [
+                "exam", 
+                "final",
+                "testing"
+            ],
+            "questions":[
+                "what time is the exam",
+                "where is the exam",
+                "what is on the exam"
+            ],
+            "context":"the exam is on Friday, 13th of December. it will cover java, android studio, testing, and "
+        },
+        {
+            "title": "java classes",
+            "tags": [
+                "java classes", 
+                "objects",
+                "classes"
+            ],
+            "questions":[
+                "what time is the exam",
+                "where is the exam",
+                "what is on the exam"
+            ],
+            "context":"the exam is on Friday, 13th of December. it will cover java, android studio, testing, and "
+        
+        }
+    ]
+}

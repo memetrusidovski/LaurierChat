@@ -1,0 +1,27 @@
+{
+    "sentences": [
+        {
+            "complete": [
+                "what time is the exam",
+                "when is the exam",
+                "what is my grade on the assignment",
+                "when is the class"
+            ]
+        },
+        {
+            "incomplete": [
+                "where is it",
+                "when is it"
+            ]
+        },
+        {
+            "unknown": [
+                "hkwmoerteg werktmwe rmwerk t",
+                " is it ehrn",
+                " monster vd code ran duck none",
+                "assignment get wire take jumble test",
+                ""
+            ]
+        }
+    ]
+}
