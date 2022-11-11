@@ -8,3 +8,7 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 import json
 import numpy as np
+
+print("Test:")
+for a in range(5):
+    print(a)
