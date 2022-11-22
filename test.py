@@ -5,6 +5,10 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.losses import binary_crossentropy
 from tensorflow.keras.optimizers import Adam
 
+import pandas as pd
+import numpy as np 
+import matplotlib.pyplot as plt
+
 from sklearn.datasets import make_multilabel_classification
 from sklearn.model_selection import train_test_split
 
@@ -36,6 +40,7 @@ model.add(Dense(n_classes, activation='sigmoid'))
 model.compile(loss=binary_crossentropy,
               optimizer=Adam(),
               metrics=['accuracy'])
+
 
 # Fit data to model
 model.fit(X_train, y_train,
