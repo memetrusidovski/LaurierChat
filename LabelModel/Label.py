@@ -1,10 +1,15 @@
-import matplotlib.pyplot as plt
-from pickletools import optimize
-from tabnanny import verbose
+import os
+import collections
+import pandas as pd
 import tensorflow as tf
-from tensorflow import keras
-from tensorflow.keras import layers
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+import tensorflow_hub as hub
+
+from datetime import datetime
 import json
 import numpy as np
+
+import bert
+from bert import run_classifier
+from bert import optimization
+from bert import tokenization
+from bert import modeling
