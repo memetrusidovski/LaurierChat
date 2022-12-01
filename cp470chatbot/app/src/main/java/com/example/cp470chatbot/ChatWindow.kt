@@ -70,14 +70,20 @@ class ChatWindow : AppCompatActivity() {
 
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> 4e9104b (Adding userSide of chat)
 //    class ChatAdapter : ArrayAdapter(
 //        context: Context,
 //        resource: Int) {
 //
 //    }
+<<<<<<< HEAD
 >>>>>>> 2f573a2 (suck my cock)
+=======
+>>>>>>> 4e9104b (Adding userSide of chat)
 
 
 
@@ -88,7 +94,11 @@ class ChatWindow : AppCompatActivity() {
                 || super.onSupportNavigateUp()
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> 2f573a2 (suck my cock)
+=======
+}
+>>>>>>> 4e9104b (Adding userSide of chat)
