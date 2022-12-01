@@ -69,7 +69,15 @@ class ChatWindow : AppCompatActivity() {
 
 
     }
+<<<<<<< HEAD
 
+=======
+//    class ChatAdapter : ArrayAdapter(
+//        context: Context,
+//        resource: Int) {
+//
+//    }
+>>>>>>> 2f573a2 (suck my cock)
 
 
 
@@ -79,4 +87,8 @@ class ChatWindow : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2f573a2 (suck my cock)
