@@ -33,8 +33,9 @@ The app supports multiple languages and can be easily extended to support more l
 ## Demo
 
 <img width="189" alt="Picture2" src="https://user-images.githubusercontent.com/66760946/220823329-f9856b71-2936-49fa-8b81-fb3e8176e045.png">
-![Picture3](https://user-images.githubusercontent.com/66760946/220823363-10e8d56c-a78b-4c64-b2a6-ffd468cdbf81.png)
-![Picture1](https://user-images.githubusercontent.com/66760946/220823373-3081c132-2c03-41a8-a942-e3ca09e72bb4.png)
+<img width="180" alt="Picture3" src="https://user-images.githubusercontent.com/66760946/220823500-4fc36862-d142-4b18-87e7-986f5cb0a26b.png">
+<img width="180" alt="Picture4" src="https://user-images.githubusercontent.com/66760946/220823522-00e22108-a778-4d93-8aa5-413fde2d3a62.png">
+
 <img width="180" alt="Picture4" src="https://user-images.githubusercontent.com/66760946/220823380-fb12937d-358e-4312-8716-f6a324cefddf.png">
 
 
