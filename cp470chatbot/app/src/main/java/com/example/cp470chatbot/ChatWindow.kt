@@ -71,6 +71,7 @@ class ChatWindow : AppCompatActivity() {
     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 =======
@@ -84,6 +85,9 @@ class ChatWindow : AppCompatActivity() {
 >>>>>>> 2f573a2 (suck my cock)
 =======
 >>>>>>> 4e9104b (Adding userSide of chat)
+=======
+
+>>>>>>> d87bf96 (more stuff)
 
 
 
@@ -95,6 +99,7 @@ class ChatWindow : AppCompatActivity() {
     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
@@ -102,3 +107,6 @@ class ChatWindow : AppCompatActivity() {
 =======
 }
 >>>>>>> 4e9104b (Adding userSide of chat)
+=======
+}
+>>>>>>> d87bf96 (more stuff)
