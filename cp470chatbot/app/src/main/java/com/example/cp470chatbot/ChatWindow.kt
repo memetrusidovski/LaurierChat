@@ -69,11 +69,7 @@ class ChatWindow : AppCompatActivity() {
 
 
     }
-//    class ChatAdapter : ArrayAdapter(
-//        context: Context,
-//        resource: Int) {
-//
-//    }
+
 
 
 
