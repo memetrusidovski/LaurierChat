@@ -30,9 +30,12 @@ The app uses a tokenizer to preprocess the text input and output of the model.
 The app displays the conversation history in the chat output field.
 The app supports multiple languages and can be easily extended to support more languages.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 76ef4b6 (Update README.md)
 ## References
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [Hugging Face Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/transformers/)
