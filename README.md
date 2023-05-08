@@ -32,6 +32,7 @@ The app supports multiple languages and can be easily extended to support more l
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -45,6 +46,8 @@ The app supports multiple languages and can be easily extended to support more l
 <img width="180" alt="Picture1" src="https://user-images.githubusercontent.com/66760946/220823789-8a9309cf-b7c0-4a83-9bb1-e3fffdcbe155.png">
 <img width="180" alt="Picture4" src="https://user-images.githubusercontent.com/66760946/220823380-fb12937d-358e-4312-8716-f6a324cefddf.png">
 
+=======
+>>>>>>> cd380f0 (Update README.md)
 
 
 
