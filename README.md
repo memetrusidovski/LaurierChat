@@ -30,15 +30,7 @@ The app uses a tokenizer to preprocess the text input and output of the model.
 The app displays the conversation history in the chat output field.
 The app supports multiple languages and can be easily extended to support more languages.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-
-
-=======
->>>>>>> 76ef4b6 (Update README.md)
-=======
 ## Demo
 
 <img width="189" alt="Picture2" src="https://user-images.githubusercontent.com/66760946/220823329-f9856b71-2936-49fa-8b81-fb3e8176e045.png">
@@ -46,12 +38,7 @@ The app supports multiple languages and can be easily extended to support more l
 <img width="180" alt="Picture1" src="https://user-images.githubusercontent.com/66760946/220823789-8a9309cf-b7c0-4a83-9bb1-e3fffdcbe155.png">
 <img width="180" alt="Picture4" src="https://user-images.githubusercontent.com/66760946/220823380-fb12937d-358e-4312-8716-f6a324cefddf.png">
 
-=======
->>>>>>> cd380f0 (Update README.md)
 
-
-
->>>>>>> d9a87a9 (Update README.md)
 ## References
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [Hugging Face Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/transformers/)
